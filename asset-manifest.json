@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8bef8612.css",
+    "main.js": "/portfolio/static/js/main.4c7157a8.js",
+    "static/media/donut.svg": "/portfolio/static/media/donut.ae9fe1bc97cb0493f33f44cf1cb58db4.svg",
+    "static/media/game_duck.svg": "/portfolio/static/media/game_duck.ffa64eb4454ddbd2208f01bfafac154b.svg",
+    "static/media/surf_app.svg": "/portfolio/static/media/surf_app.8c2b9effb96f4d5c57166f6b0345c14f.svg",
+    "static/media/service-1.svg": "/portfolio/static/media/service-1.2737db272d9c1385909d20d940222ab0.svg",
+    "static/media/avatar-2.svg": "/portfolio/static/media/avatar-2.1fe7c9736c13626f6edce2c02d1c645c.svg",
+    "static/media/avatar-1.svg": "/portfolio/static/media/avatar-1.9bd61775d357853cd5137125cb6ed013.svg",
+    "static/media/job.svg": "/portfolio/static/media/job.993ae578c41839e8d337836dcb26ebca.svg",
+    "static/media/cooking.svg": "/portfolio/static/media/cooking.aeefdc15147fbfb4f014baf3ab2b5ad6.svg",
+    "static/media/duck.svg": "/portfolio/static/media/duck.c9fe50a4598c40227451a82b28fe546e.svg",
+    "static/media/service-2.svg": "/portfolio/static/media/service-2.0189a317ca98ff4d0fa0ca26ff3c9244.svg",
+    "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "index.html": "/portfolio/index.html",
+    "main.8bef8612.css.map": "/portfolio/static/css/main.8bef8612.css.map",
+    "main.4c7157a8.js.map": "/portfolio/static/js/main.4c7157a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bef8612.css",
+    "static/js/main.4c7157a8.js"
+  ]
+}
