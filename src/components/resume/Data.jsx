@@ -1,0 +1,51 @@
+const Data = [
+    {
+      id: 1,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2021 - present",
+      title: "Academic Degree",
+      desc: "For my Academic degree overall I have always been a curious student and I like to speak my mind when working in group projects.",
+    },
+    {
+      id: 2,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2021 - present",
+      title: "Bachelor's Degree",
+      desc: "I started my Bachelos's degree with the goal to become a great developer mainly in the frontend workfield.",
+    },
+    {
+      id: 3,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2021 - present",
+      title: "Yet to fill in",
+      desc: "This field will be used when I have gained more experienced in the field.",
+    },
+    {
+      id: 4,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2021 - present",
+      title: "Web Designer",
+      desc: "My web designer journey started at Fontys since then I have had passion about designing.",
+    },
+    {
+      id: 5,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2021 - present",
+      title: "Front-End Developer",
+      desc: "As a Front-end developer I started back in my highschool days where we had some html and css classes, but I have gone more in-depth since joining university.",
+    },
+    {
+      id: 6,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2021 - present",
+      title: "Yet to fill in",
+      desc: "This field will be used when I have gained more experienced in the field.",
+    },
+  ];
+export default Data
