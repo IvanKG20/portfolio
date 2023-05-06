@@ -1,6 +1,7 @@
 import React from 'react'
 import "./about.css"
 import Image from "../../assets/avatar-2.svg"
+import CV from "../../assets/CV.pdf"
 
 const About = () => {
   return (
@@ -13,7 +14,7 @@ const About = () => {
       <div className="about__data grid">
         <div className="about__info">
           <p className="about__description">I am Ivan Georgiev, web developer from Burgas, Bulgaria. As of right now im trying to learn more about web development and im always keen on trying new things! In my free time I like to play video games or skateboard. </p>
-          <a href="#" className="btn">My CV</a>
+          <a href={CV} className="btn" target='_blank'>My CV</a>
         </div>
 
         <div className="about__skills grid">
